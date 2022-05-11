@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+    color: black;
+    text-align: center;
+    font-size: 200%;
+}
+table{
+    width: 100%;
+}
+td{
+    width: 33.33%;
+    text-align: center;
+}
+.Option td:hover{
+    background-color: #d4c94f;
+}
